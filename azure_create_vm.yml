@@ -13,7 +13,7 @@
       ssh_password_enabled: false
       ssh_public_keys: 
         - path: /home/ansibleubuntu_admin/.ssh/authorized_keys
-          key_data: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCW6vggwcGNidXuGYVJwq2jb2r+SkQjsJ6DnkGYtkkcTBVtq6ZIklplj9Xchs6sHogyo+Mu2kEsk6bElgZp/pSQ/DnRlobMatyhYmczv0WBPj6Wm1zGbORuUF7hl91xRrjyy17fWDSjrMleTTVDa1vuKf7blEEVO1tEIHKHxuo+w7kdr28KTl2rmHAiIA2SQ4SULfYlkafi4qiUWW9K4pvqdApmVCwBXQ7iGP/4FrWwOHn7sslUSR5cOkN8xkxMyEpd9CZM+pk9V0XeYXJz6pB6fLsNJzahJE27jXePWznEPq5NEjiomfpxGTAlF2xowWvKru2BDZOxZXLAfLXLraTP ansibleubuntu_admin@ansibleubuntu"
+          key_data: "ssh-rsa AAAA......."
       image:
         offer: UbuntuServer
         publisher: Canonical
